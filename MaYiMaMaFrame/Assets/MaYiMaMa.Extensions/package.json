@@ -1,8 +1,8 @@
 {
   "name": "com.mayimama.extensions",
   "version": "0.0.1",
-  "displayName": "mayimama.extensions",
-  "description": "mayimama extensions",
+  "displayName": "MaYiMaMa.Extensions",
+  "description": "extension for c# and unity",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "documentationUrl": "",
